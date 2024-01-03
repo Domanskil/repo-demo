@@ -1,6 +1,6 @@
 # repo-demo
-example
+example /n
 now pull it to my local machine
 
-## commit examle
+## commit example
 some commit
