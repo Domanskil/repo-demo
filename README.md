@@ -1,5 +1,5 @@
 # repo-demo
-example /n
+example  
 now pull it to my local machine
 
 ## commit example
